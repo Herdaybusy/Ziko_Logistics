@@ -14,20 +14,13 @@ Strategic Decision-Making: With a structured data pipeline, executives gain acce
 
 🏗️ Building the Ziko ETL Pipeline
 
-Step 1: Data Extraction
-
-The pipeline is designed to pull data from a variety of sources, including:
-IoT-enabled fleet tracking systems.
-Third-party logistics APIs for shipment status updates.
-Market trend databases for pricing insights.
-Internal enterprise resource planning (ERP) systems.
+Step 1: Data Extraction: The pipeline is designed to pull data from a asigned website
 
 Step 2: Data Transformation
 
-Once extracted, the data undergoes rigorous processing to ensure usability:
+Once extracted, the data undergoes different processing to ensure usability:
 Cleaning and standardizing diverse datasets.
 Merging information from disparate sources into a unified format.
-Applying machine learning models to detect inefficiencies and recommend optimizations.
 
 Step 3: Data Loading
 
@@ -49,7 +42,6 @@ Data-Driven Growth Strategies: Empowers leadership with insights to expand into 
 Python & Pandas: Data processing and automation.
 SQLAlchemy & PostgreSQL: Efficient database management.
 Jupyter Notebook: Development and analysis environment.
-Power BI & Matplotlib: Visualization for strategic decision-making.
 
 🔍 Future Enhancements
 
