@@ -1,0 +1,4 @@
+pandas
+azure-storage-blob
+psycopg2-binary
+apache-airflow
